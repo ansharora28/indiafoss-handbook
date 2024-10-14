@@ -55,4 +55,4 @@ Collaboration between different workgroups (like content or logistics) is vital 
 
 Implement a feedback system where speakers and scholars can share their experiences. This helps identify any gaps in support or areas where the diversity workgroup could improve. Send post-event feedback form to speakers and scholars asking for input on the event’s inclusivity efforts. Use this feedback to refine the outreach and selection processes.
 
-
+Credits: [Ruchika Bagde](fossunited.org/ruchika)
