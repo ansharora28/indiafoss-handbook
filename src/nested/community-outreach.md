@@ -23,3 +23,5 @@ Help ensure a smooth collaboration between community partners and the event team
 **Things for Next Year, maybe?**
 
 For future editions, rather than just asking community partners to share social posts of IndiaFOSS, spreading more awareness about FOSS United's philosophy and how the foundation operates can be a priority. A potential initiative could be designing an informative poster about the foundation’s philosophy, which community partners can share within their networks. This will help raise awareness about FOSS United and create a coordinated marketing effort for both IndiaFOSS and the foundation.
+
+**Credits:** [Faizan Akhtar](https://www.faizanakhtar.com/)
