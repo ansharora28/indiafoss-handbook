@@ -25,3 +25,5 @@ Time required - Several hours a week, starting at least a month before the event
 - Conduct thorough venue assessment, particularly for technical infrastructure like WiFi.
 - Keep direct contact information for all vendors and support teams easily accessible.
 - Plan for contingencies in case of delays or service failures.
+
+Credits: [nammahari](https://github.com/nammahari)
